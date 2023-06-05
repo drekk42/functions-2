@@ -1,13 +1,3 @@
-const func = () => {
-  console.log("hellz yeah");
-};
-
-const richieFunc = (callback) => {
-  callback();
-};
-
-richieFunc(func);
-
 ////////// PROBLEM 1 //////////
 
 // ***** Do not edit the code below *****
